@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻Coded Since: 2022<br>🔨Working On: My own game and website.<br>🤓Languages Mastered: Python & LuaU<br>📚Currently Learning: HTML, CSS, JavaScript, Rust, & CSharp.<br>🎮Game Engine Used by Me: Roblox Studio & Unity</p>
+<p align="left">💻Coded Since: 2022<br>🔨Working On: My own game and website.<br>🤓Languages Mastered: <mark style="color: blue;">Pyt</mark>hon & LuaU<br>📚Currently Learning: HTML, CSS, JavaScript, Rust, & CSharp.<br>🎮Game Engine Used by Me: Roblox Studio & Unity</p>
 
 ###
 
