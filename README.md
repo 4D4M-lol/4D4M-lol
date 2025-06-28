@@ -1,5 +1,3 @@
-<div align="center" style="background-color: #273849; color: #41b883; padding: 20px; border-radius: 10px; text-align: center;">
-
 <h1 align="left">Hello, World!</h1>
 
 ###
@@ -74,5 +72,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/4D4M-lol/4D4M-lol/output/snake.svg" alt="Snake animation" style="filter: invert(72%) sepia(48%) saturate(478%) hue-rotate(103deg) brightness(91%) contrast(91%);" />
-
-</div>
