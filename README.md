@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #273849; color: #41b883; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #273849; color: #41b883; padding: 20px; border-radius: 10px; text-align: center;">
 
 <h1 align="left">Hello, World!</h1>
 
