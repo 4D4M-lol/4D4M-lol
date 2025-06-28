@@ -62,7 +62,7 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4D4M-lol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" width="100%" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4D4M-lol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" width="75%" alt="languages graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=4D4M-lol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" width="45%" alt="stats graph" />
     <img src="https://streak-stats.demolab.com?user=4D4M-lol&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" width="45%" alt="streak graph" /> <br>
     <img src="https://raw.githubusercontent.com/4D4M-lol/4D4M-lol/output/snake.svg" width="100%" alt="Snake animation" />
