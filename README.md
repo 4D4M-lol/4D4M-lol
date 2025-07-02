@@ -37,7 +37,7 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
     <a href="https://x.com/dot4D4M_lol" target="_blank">
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x badge">
     </a>
-    <a href="https://discord.com/.4d4m_lol/982906695867043871" target="_blank">
+    <a href="https://discord.com/.4d4m_lol" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge">
     </a>
     <a href="https://github.com/4D4M-lol" target="_blank">
