@@ -1,9 +1,3 @@
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
-
 <h1 align="left">Hello, World!</h1>
 
 <p align="left">I am 4D4M, an Indonesian game and web developer.</p>
@@ -22,7 +16,7 @@
   <tr>
     <td valign="top" width="33%">
       <h2 style="font-size: 1.5em; margin-bottom: 10px;">Languages Mastered</h2>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="border-radius: 8px;"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" style="border-radius: 8px;"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="border-radius: 8px;"/>
