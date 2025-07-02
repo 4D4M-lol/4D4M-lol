@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">🤓Languages Mastered</h2>
+      <h2 style="font-size: 1.5em; margin-bottom: 10px;">Languages Mastered</h2>
       <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="border-radius: 8px;"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" style="border-radius: 8px;"/>
@@ -29,7 +29,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">📚Currently Learning</h2>
+      <h2 style="font-size: 1.5em; margin-bottom: 10px;">Currently Learning</h2>
       <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="border-radius: 8px;"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="border-radius: 8px;"/>
@@ -38,7 +38,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">🌏My Social Media</h2>
+      <h2 style="font-size: 1.5em; margin-bottom: 10px;">My Social Media</h2>
       <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
         <a href="https://www.youtube.com/@dot4d4m_lol" target="_blank" style="display: block; border-radius: 8px; overflow: hidden;">
             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="border-radius: 8px;"/>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<h2 align="left">📊My Stats</h2>
+<h2 align="left">My Stats</h2>
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
