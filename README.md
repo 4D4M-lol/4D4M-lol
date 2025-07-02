@@ -51,6 +51,7 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=4D4M-lol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" width="45%" alt="stats graph" style="border-radius: 12px;"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4D4M-lol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" width="45%" alt="languages graph" style="border-radius: 12px;"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=4D4M-lol&radius=16&theme=github-dark&area=true&order=5" width="90%" alt="activity-graph graph"  />
         <img src="https://raw.githubusercontent.com/4D4M-lol/4D4M-lol/output/snake.svg" width="90%" alt="snake animation" style="border-radius: 12px;"/>
     </div>
 </div>
