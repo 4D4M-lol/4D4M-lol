@@ -28,19 +28,19 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
 
 ### 🌏 Social Media
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-    <a href="https://www.youtube.com/@dot4d4m_lol" target="_blank">
+    <a href="https://www.youtube.com/@dot4d4m_lol" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube badge">
     </a>
-    <a href="https://www.tiktok.com/@.4d4m_lol" target="_blank">
+    <a href="https://www.tiktok.com/@.4d4m_lol" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="tiktok badge">
     </a>
-    <a href="https://x.com/dot4D4M_lol" target="_blank">
+    <a href="https://x.com/dot4D4M_lol" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x badge">
     </a>
-    <a href="https://discord.com/.4d4m_lol" target="_blank">
+    <a href="https://discord.com/users/982906695867043871" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge">
     </a>
-    <a href="https://github.com/4D4M-lol" target="_blank">
+    <a href="https://github.com/4D4M-lol" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
     </a>
 </div>
