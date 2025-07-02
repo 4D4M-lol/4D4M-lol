@@ -10,9 +10,11 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
 
 ### 💻 Languages
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-    
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    
+
+<p align="left">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+</p>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
