@@ -1,48 +1,49 @@
-<h1 align="left">Hello, World!</h1>
 
-<p align="left">I am 4D4M, an Indonesian game and web developer.</p>
+# 👋 Hello World!
 
-<h2 align="left">About me</h2>
+I'm 4D4M-lol an Indonesian game developer.
 
-<p align="left">
-    💻Coding Since: 2022<br>
-    🔨Working On: My own game, programming language, game engine, and website.<br>
-    🤓Languages Mastered: Python, LuaU & C#.<br>
-    📚Currently Learning: HTML, CSS, JavaScript & Rust.<br>
-    🎮Game Engine Used by Me: Roblox Studio & Unity.
-</p>
+## 📜 About Me
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">Mastered</h2>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="border-radius: 8px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" style="border-radius: 8px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="border-radius: 8px;"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">Learning</h2>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="border-radius: 8px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="border-radius: 8px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="border-radius: 8px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" style="border-radius: 8px;"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">Social Media</h2>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-        <a href="https://www.youtube.com/@dot4d4m_lol" target="_blank" style="display: block; border-radius: 8px; overflow: hidden;">
-            <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="border-radius: 8px;"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://github.com/4D4M-lol/Espresso) a game engine created using SDL3 on C# that can be used for creating application, 2D, and 3D game.
 
-<h2 align="left">My Stats</h2>
+## 📚 My Skills
+
+### 💻 Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🔨 Tools
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🌏 Social Media
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+
+## 📊 My Stats
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
