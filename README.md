@@ -1,3 +1,9 @@
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+
 <h1 align="left">Hello, World!</h1>
 
 <p align="left">I am 4D4M, an Indonesian game and web developer.</p>
@@ -32,7 +38,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h2 style="font-size: 1.5em; margin-bottom: 10px;">🌏Social Media</h2>
+      <h2 style="font-size: 1.5em; margin-bottom: 10px;">🌏My Social Media</h2>
       <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
         <a href="https://www.youtube.com/@dot4d4m_lol" target="_blank" style="display: block; border-radius: 8px; overflow: hidden;">
             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="border-radius: 8px;"/>
