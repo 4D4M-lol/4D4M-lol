@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/4D4M-lol/4D4M-lol/refs/heads/main/GitHub%20Banner.png)
+<img src="https://raw.githubusercontent.com/4D4M-lol/4D4M-lol/refs/heads/main/GitHub%20Banner.png" alt="banner" style="border-radius: 15px;">
 
 # 👋 Hello World!
 
