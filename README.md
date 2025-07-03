@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/4D4M-lol/4D4M-lol/refs/heads/main/GitHub%20Banner.png)
+
 # 👋 Hello World!
 
 I'm 4D4M-lol an Indonesian game developer.
