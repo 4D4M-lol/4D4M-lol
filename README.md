@@ -6,7 +6,7 @@ I'm 4D4M-lol an Indonesian game developer.
 
 ## 📜 About Me
 
-My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://github.com/4D4M-lol/Espresso) a game engine created using SDL3 on C# that can be used for creating application, 2D, and 3D game.
+My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://github.com/4D4M-lol/Espresso), a game engine/gui library created using SDL3 on C# that can be used for creating application, 2D, and 3D game.
 
 ## 📚 My Skills & Tools
 
