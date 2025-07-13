@@ -26,7 +26,7 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
     <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" alt="rider badge">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual studio badge">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge">
-    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="neovim badge">
+    <img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim badge">
 </div>
 
 ### 🌏 Social Media
