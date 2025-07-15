@@ -12,12 +12,12 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
 
 ### 💻 Languages
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp badge">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript badge">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust badge">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python badge">
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua badge">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp badge">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python badge">
 </div>
 
 ### 🔨 Tools
@@ -40,11 +40,11 @@ My name is Sulthan or 4D4M-lol and I'm current working on [☕Espresso](https://
     <a href="https://x.com/dot4D4M_lol" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x badge">
     </a>
-    <a href="https://discord.com/users/982906695867043871" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge">
-    </a>
     <a href="https://github.com/4D4M-lol" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+    </a>
+    <a href="https://discord.com/users/982906695867043871" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge">
     </a>
 </div>
 
