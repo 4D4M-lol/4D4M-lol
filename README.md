@@ -2,7 +2,7 @@
 
 # 👋 Hello World!
 
-I'm 4D4M-lol (Adam) an 13 year old game developer from Indonesia.
+I'm 4D4M-lol (Adam) a 13 year old game developer from Indonesia.
 
 ## 📜 About Me
 
