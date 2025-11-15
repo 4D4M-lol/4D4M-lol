@@ -6,7 +6,7 @@ I'm 4D4M-lol (Adam) a 13 year old game developer and programmer from Indonesia.
 
 ## 📜 About Me
 
-My name is Sulthan or 4D4M-lol and I'm current working on [☕OKitty](https://github.com/4D4M-lol/OKitty), a game engine/GUI library created using SDL3 on C# that can be used for creating application, 2D game, and 3D game on different platforms.
+My name is Sulthan or 4D4M-lol and I'm current working on [🐈‍⬛OKitty](https://github.com/4D4M-lol/OKitty), a game engine/GUI library created using SDL3 on C# that can be used for creating application, 2D game, and 3D game on different platforms.
 
 ## 📚 My Skills & Tools
 
